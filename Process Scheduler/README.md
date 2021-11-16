@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="../images/python-logo.png" alt="Logo" width="120" height="120">
+  <img src="../images/c.png" alt="Logo" width="120" height="120">
 
   <h3 align="center">Compiler</h3>
   <p align="center">
