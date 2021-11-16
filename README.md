@@ -97,15 +97,15 @@ Grammar aware Japanese to English translator build in C++. This was developed fo
 
 ## Process Scheduler
 
-C++
+C++ Implementation of process scheduling and resource allocation using various algorithms. This program utilizes linux specific libraries for thread management.
 
 ## Receipt Reader
 
-Python, OpenCV, Pytesseract
+A Python 3.8 program which reads an image of a receipt and utilizes computer vision, text reading, and image editing packages to store specific information in a JSON format.
 
 ## Towers of Hanoi
 
-C++, A* Algorithm
+An Artifcial Intelligence program built to solve an any height towers of hanoi puzzle using A* algorithm. This was programmed in C++ for Artificial Intelligence at CSUSM.
 
 <!-- CONTACT -->
 ### Contact
