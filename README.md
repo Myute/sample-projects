@@ -22,22 +22,14 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/c.png" alt="Logo" width="120" height="120">
+    <img src="images/python-logo.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Sample Projects</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    A repository containing various projects demonstrating my programming abilities.
   </p>
 </p>
 
@@ -68,18 +60,15 @@
 <!-- ABOUT THE PROJECT -->
 # About This Repository
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+This github repository contains projects that are in a ready to view and ready to run format whose purpose is to demonstrate my ability as a programmer to implement fundamental and complex solutions to problems. Each project placed in this repository is selected based on how significant the project is or how interesting I found the topic.
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+More specific factors are:
+* Demonstrates implementations of fundamental algorithms and data structures
+* Shows my ability to understand and implement more abstract concepts
+* Exemplifies good programming practices
+* Topics that I find extremely engaging to work with :smile:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
-
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+This list does not contain all of my completed projects, but rather more significant and ready to view programs. I will be continually adding more to this repository as I am able to recover more projects that were not originally on gitub as well as newly developed programs which I feel show important programming skills.
 
 
 <!-- GETTING STARTED -->
