@@ -1,0 +1,11 @@
+Script started on Fri 21 Feb 2020 08:57:17 PM PST
+]0;higbe005@empress:~/CS421/HW2A[?1034h[higbe005@empress HW2A]$ g++ mat.cp[1@-[1@s[1@t[1@d[1@=[1@c[1@+[1@+[1@1[1@1[1@ 
+]0;higbe005@empress:~/CS421/HW2A[higbe005@empress HW2A]$ ./a.out
+Reading table from lines.txt...
+0| a b c | d e f | - - - | - - - 
+1| - - - | - - - | g h i | j k l 
+2| - - - | - - - | - - - | - - - 
+]0;higbe005@empress:~/CS421/HW2A[higbe005@empress HW2A]$ exit
+exit
+
+Script done on Fri 21 Feb 2020 08:57:35 PM PST

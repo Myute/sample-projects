@@ -1,0 +1,91 @@
+Script started on Fri 28 Feb 2020 06:34:50 PM PST
+]0;higbe005@empress:~/CS421/HW2B/Prog1[?1034h[higbe005@empress Prog1]$ ex./a.oug++ -std=c++11 fa.cpp
+]0;higbe005@empress:~/CS421/HW2B/Prog1[higbe005@empress Prog1]$ g++ -std=c++11 fa.cpexit./a.out
+Enter the input file name:fai_mytoken.txt
+
+.....Scanner was called...
+>>>>>Word is:abbb
+Trying the mytoken machine...
+current state: 0
+character: a
+current state: 1
+character: b
+current state: 2
+character: b
+current state: 2
+character: b
+>>>>>Type is:MYTOKEN
+
+.....Scanner was called...
+>>>>>Word is:ab
+Trying the mytoken machine...
+current state: 0
+character: a
+current state: 1
+character: b
+>>>>>Type is:MYTOKEN
+
+.....Scanner was called...
+>>>>>Word is:aabb
+Trying the mytoken machine...
+current state: 0
+character: a
+current state: 1
+character: a
+I am stuck in state 1
+trying real_token machine...
+current state: 0
+character: a
+stuck in state: 0
+trying ident_token machine...
+current state: 0
+character: a
+current state: 1
+character: a
+current state: 1
+character: b
+current state: 1
+character: b
+>>>>>Type is:IDENT
+
+.....Scanner was called...
+>>>>>Word is:bb
+Trying the mytoken machine...
+current state: 0
+character: b
+I am stuck in state 0
+trying real_token machine...
+current state: 0
+character: b
+stuck in state: 0
+trying ident_token machine...
+current state: 0
+character: b
+current state: 1
+character: b
+>>>>>Type is:IDENT
+
+.....Scanner was called...
+>>>>>Word is:EOF
+Trying the mytoken machine...
+current state: 0
+character: E
+I am stuck in state 0
+trying real_token machine...
+current state: 0
+character: E
+stuck in state: 0
+trying ident_token machine...
+current state: 0
+character: E
+stuck in state: 0
+trying integer_token machine...
+current state: 0
+character: E
+stuck in state: 0
+>>>>>Lexical Error: The string is not in my language
+>>>>>End of File encountered
+]0;higbe005@empress:~/CS421/HW2B/Prog1[higbe005@empress Prog1]$ exit
+exit
+
+Script done on Fri 28 Feb 2020 06:35:16 PM PST

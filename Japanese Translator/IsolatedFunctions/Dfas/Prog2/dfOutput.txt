@@ -1,0 +1,70 @@
+Script started on Fri 28 Feb 2020 07:15:45 PM PST
+]0;higbe005@empress:~/CS421/HW2B/Prog2[?1034h[higbe005@empress Prog2]$ g+ex./td.olscd Pro cd HW2B_Scannerlscd CS421Proglscd /cs/cs421LKlsexg++ -std=c++11 df.cpp
+]0;higbe005@empress:~/CS421/HW2B/Prog2[higbe005@empress Prog2]$ ./a.out
+This is a table driven scanner. Needs trs.txt and dfas.txt.
+States are 0 to 9 and chars are a to d
+         a b c d
+State 0: 0 1     
+State 1:         
+State 2:     2 3 
+State 3:         
+State 4:         
+State 5:         
+State 6:         
+State 7:         
+State 8:         
+State 9:         
+token1: 0 is start and ends in 1
+token2: 2 is start and ends in 3
+.....done reading tables....
+@@Enter a string: ab
+state: 0 char: a
+state: 1 char: b
+found in token1
+do control-C to quit
+@@Enter a string: aab
+state: 0 char: a
+state: 0 char: a
+state: 1 char: b
+found in token1
+do control-C to quit
+@@Enter a string: abb
+state: 0 char: a
+state: 1 char: b
+state: -1 char: b
+state: -1 char: a
+Lexical Error!
+do control-C to quit
+@@Enter a string: aaab
+state: 0 char: a
+state: 0 char: a
+state: 0 char: a
+state: 1 char: b
+found in token1
+do control-C to quit
+@@Enter a string: cd
+state: -1 char: c
+state: 2 char: c
+state: 3 char: d
+found in token2
+do control-C to quit
+@@Enter a string: cdd
+state: -1 char: c
+state: 2 char: c
+state: 3 char: d
+state: -1 char: d
+Lexical Error!
+do control-C to quit
+@@Enter a string: cccd
+state: -1 char: c
+state: 2 char: c
+state: 2 char: c
+state: 2 char: c
+state: 3 char: d
+found in token2
+do control-C to quit
+@@Enter a string: ^C
+]0;higbe005@empress:~/CS421/HW2B/Prog2[higbe005@empress Prog2]$ exit
+exit
+
+Script done on Fri 28 Feb 2020 07:16:42 PM PST

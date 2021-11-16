@@ -1,0 +1,20 @@
+Script started on Fri 07 Feb 2020 11:29:28 AM PST
+]0;higbe005@empress:~/CS421[?1034h[higbe005@empress CS421]$ g++ Recognizer.cpp 
+]0;higbe005@empress:~/CS421[higbe005@empress CS421]$ ./a.out
+Enter a string consisting of numbers or 'Q' to Exit: 0
+YES IN L
+Enter a string consisting of numbers or 'Q' to Exit: 1
+YES IN L
+Enter a string consisting of numbers or 'Q' to Exit: 00110
+YES IN L
+Enter a string consisting of numbers or 'Q' to Exit: 2
+NO NOT IN L
+Enter a string consisting of numbers or 'Q' to Exit: 02
+NO NOT IN L
+Enter a string consisting of numbers or 'Q' to Exit: 31
+NO NOT IN L
+Enter a string consisting of numbers or 'Q' to Exit: Q
+]0;higbe005@empress:~/CS421[higbe005@empress CS421]$ exit
+exit
+
+Script done on Fri 07 Feb 2020 11:30:33 AM PST

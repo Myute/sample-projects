@@ -1,0 +1,48 @@
+
+
+NOTE: IN ORDER TO RUN THIS NEEDS -std=c++11
+
+Fill this out and submitIt_LK this file with the executable.
+
+Group#: 3
+
+Must have divided the work as specified.
+If the member did not fully contribute to the assigned part, do not list his/her name!
+
+1.State who did what by indicating: 
+  Member A tasks (syntax error functions) - who: Kevyn Higbee
+  Member B tasks (match and next_token)- who: Abdulla Azim
+  Member C tasks (main()) who: Preston Roberts
+  Who wrote which parser functions? 
+  functions             who
+  ----------------      ----------
+  void story();         Kevyn Higbee
+  void connector();     Kevyn Higbee
+  void subject();       Kevyn Higbee
+  void verb();          Kevyn Higbee
+  void tense();         Kevyn Higbee
+  void be();            Kevyn Higbee
+  void noun();          Preston Roberts
+  void afternoun();     Preston Roberts
+  void object();        Preston Roberts
+  void afterobject();   Preston Roberts
+  void destination();   Preston Roberts
+  void period();        Preston Roberts
+2.  Who came to the meeting to test the program together?
+    Preston Roberts, Kevyn Higbee, Abdulla Azim
+
+3.  You have included all the required comments? 
+    (Grammer: and Done by: )
+    Yes.
+
+4.  The parser produced correct output for 
+    all 6 test cases?
+    Yes.
+
+5.  What extra credit feature did you include?
+    If it is error correction, did you make sure errors.txt
+    got produced?
+    [ You may still do EC later ]
+        
+checkIt_LK in 24 hours and immediately correct and resubmit.     
+
