@@ -1,11 +1,34 @@
-# ReceiptReader
-CS 478 Final Project Files
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <img src="../images/python-logo.png" alt="Logo" width="120" height="120">
 
-## About this Project
-ReceiptReader is a python project that extracts data from an image of a receipt and outputs the data in an organized json format. Text extraction is accomplished using pytesseract
-and image processing is accomplished using opencv.
+  <h3 align="center">Compiler</h3>
+  <p align="center">
+  A Python based GUI and compiler.
+  </p>
+</p>
 
-Data is organized by location of the text on the receipt.
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="about-this-project">About This Project</a>
+    </li>
+    <li>
+      <a href="getting-started">Getting Started</a>
+    </li>
+    <li>
+      <a href="how-it-works">How It Works</a>
+    </li>
+  </ol>
+  
+<!-- ABOUT THIS PROJECT -->
+# About This Project
+ReceiptReader is a python project that extracts data from an image of a receipt and outputs the data in an organized json format. Text extraction is accomplished using pytesseract and image processing is accomplished using opencv. Data is organized by location of the text on the receipt.
+<!-- GETTING STARTED-->
+# Getting Started
 ## Usage
 ### Prerequisites
 This project requires tesseract and opencv to be installed and was tested in Python 3.9 .
@@ -18,6 +41,8 @@ This project requires tesseract and opencv to be installed and was tested in Pyt
   python Reader.py 'filename' -show
 ```
 The '-show' flag will display images of the receipt along each step of image preprocessing.
+<!-- HOW IT WORKS -->
+# How It Works
 
 ## Known Issues
 Current known issues in this project
