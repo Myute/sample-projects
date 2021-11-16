@@ -98,9 +98,7 @@ An Artifcial Intelligence program built to solve an any height towers of hanoi p
 
 <!-- CONTACT -->
 ### Contact
-
-Kevyn Higbee - kevynhigbee@gmail.com
-
+[![Gmail][gmail-shield]][gmail-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -109,6 +107,8 @@ Kevyn Higbee - kevynhigbee@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: kevynhigbee@gmail.com
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/kevynhigbee/
 [product-screenshot]: images/screenshot.png
