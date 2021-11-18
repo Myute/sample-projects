@@ -43,6 +43,12 @@ This project requires tesseract and opencv to be installed and was tested in Pyt
 The '-show' flag will display images of the receipt along each step of image preprocessing.
 <!-- HOW IT WORKS -->
 # How It Works
+  
+<p align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="../images/testoutput.png" alt="Logo" width="800" height="500">
+  </a>
+<p>
 
 ## Known Issues
 Current known issues in this project
