@@ -74,7 +74,7 @@ This list does not contain all of my completed projects, but rather more signifi
 <!-- GETTING STARTED -->
 # Projects
 
-To ease navigation of this repository, changes have been made to the file structures of certain projects.
+To ease navigation of this repository, changes have been made to the file structures and documentation of certain projects.
 
 ## Compiler
 
