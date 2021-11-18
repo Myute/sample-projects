@@ -45,9 +45,7 @@ The '-show' flag will display images of the receipt along each step of image pre
 # How It Works
   
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="../images/testoutput.png" alt="Logo" width="800" height="500">
-  </a>
 <p>
 
 ## Known Issues
