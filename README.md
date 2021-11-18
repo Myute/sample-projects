@@ -92,7 +92,7 @@ C++ Implementation of process scheduling and resource allocation using various a
 
 A Python 3.8 program which reads an image of a receipt and utilizes computer vision, text reading, and image editing packages to store specific information in a JSON format.
 
-## Towers of Hanoi
+## Towers of Hanoi AI
 
 An Artifcial Intelligence program built to solve an any height towers of hanoi puzzle using A* algorithm. This was programmed in C++ for Artificial Intelligence at CSUSM.
 
