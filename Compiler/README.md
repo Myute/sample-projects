@@ -26,8 +26,11 @@
   
 <!-- ABOUT THIS PROJECT -->
 # About This Project
-This project was made for the course Programming Langauges at CSUSM and is a full tokenizer and syntax analyizer built in Python. TKinter was used to make the GUI.
+This project was made for the course Programming Langauges at CSUSM and is a full tokenizer and syntax analyizer built in Python. TKinter was used to make a fully custom GUI including a line counter. Syntax uses Backus normal form (BNF). Additionally Regex is used to find target cases such as finding a defined variable vs a string.
 <!-- GETTING STARTED-->
 # Getting Started
+<p align = "center">
+  <img src="../images/compilerscreenshot.png" alt="Logo" width="800" height ="600">  
+<p>
 <!-- HOW IT WORKS -->
 # How It Works
