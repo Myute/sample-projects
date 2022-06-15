@@ -30,7 +30,7 @@ This project was made for the course Programming Langauges at CSUSM and is a ful
 <!-- GETTING STARTED-->
 # Getting Started
 <p align = "center">
-  <img src="../images/compilerscreenshot.png" alt="Logo" width="800" height ="600">  
+  <img src="../images/compilerscreenshot.png" alt="Logo" width="800" height ="400">  
 <p>
 <!-- HOW IT WORKS -->
 # How It Works
