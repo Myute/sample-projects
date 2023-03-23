@@ -45,6 +45,7 @@
     <li>
       <a href="#projects">Projects</a>
       <ul>
+        <li><a href="#sshgui">SSH Gui</a></li>
         <li><a href="#compiler">Compiler</a></li>
         <li><a href="#japanese-translator">Japanese Translator</a></li>
         <li><a href="#process-scheduler">Process Scheduler</a></li>
@@ -75,6 +76,9 @@ This list does not contain all of my completed projects, but rather more signifi
 # Projects
 
 To ease navigation of this repository, changes have been made to the file structures and documentation of certain projects.
+
+## SSH Gui
+Not yet Uploaded. Tkinter Gui made for managing port security on AOS 6 and 8 network switches. Made for internal use at CSUSM.
 
 ## Compiler
 
