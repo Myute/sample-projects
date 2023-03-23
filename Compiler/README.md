@@ -32,5 +32,3 @@ This project was made for the course Programming Langauges at CSUSM and is a ful
 <p align = "center">
   <img src="../images/compilerscreenshot.png" alt="Logo" width="800" height ="400">  
 <p>
-<!-- HOW IT WORKS -->
-# How It Works
