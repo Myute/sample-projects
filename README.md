@@ -45,7 +45,7 @@
     <li>
       <a href="#projects">Projects</a>
       <ul>
-        <li><a href="#sshgui">SSH Gui</a></li>
+        <li><a href="#ssh-gui">SSH Gui</a></li>
         <li><a href="#compiler">Compiler</a></li>
         <li><a href="#japanese-translator">Japanese Translator</a></li>
         <li><a href="#process-scheduler">Process Scheduler</a></li>
