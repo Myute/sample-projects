@@ -26,8 +26,8 @@
   
 <!-- ABOUT THIS PROJECT -->
 # About This Project
-This project was made for the course Programming Langauges at CSUSM and is a full tokenizer and syntax analyizer built in Python. TKinter was used to make the GUI.
-<!-- GETTING STARTED-->
-# Getting Started
+This is a console application that simulates processes and race conditions to show different algorithms for resource management.
+
 <!-- HOW IT WORKS -->
 # How It Works
+This program has implementations of First Come First Serve, Shortest Job First, and Random.
