@@ -3,9 +3,9 @@
 <p align="center">
   <img src="../images/python-logo.png" alt="Logo" width="120" height="120">
 
-  <h3 align="center">Compiler</h3>
+  <h3 align="center">OpenCV Receipt Reader</h3>
   <p align="center">
-  A Python based GUI and compiler.
+  A Computer Vision and Text Recognition Program.
   </p>
 </p>
 
